@@ -252,9 +252,3 @@ plt.show()
 # print("END!!!")
 # plt.plot(range(len(cost_list)), cost_list)
 # plt.show()
-
-
-
-
-
-
